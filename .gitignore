@@ -1,0 +1,23 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+
+# Editor and OS files
+.DS_Store
+.idea/
+.vscode/
+
+# Experiment outputs (recomputable)
+# figs/
+
+# LQ_GAMES generated data
+LQ_GAMES/data/
+
+# Markov experiment outputs
+markov/*.npz
+markov/*.npy
+
