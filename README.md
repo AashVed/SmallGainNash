@@ -1,5 +1,7 @@
 # Small-Gain Nash: Experimental Code
 
+[![arXiv](https://img.shields.io/badge/arXiv-2512.06791-b31b1b.svg)](https://arxiv.org/abs/2512.06791)
+
 This directory is the public code companion to the paper
 **“Small-Gain Nash: Certified Contraction to Nash Equilibria in Differentiable Games”**.
 It contains all scripts used to generate the figures and numerical results.
@@ -99,6 +101,13 @@ Typical runtimes on a laptop CPU are:
 
 ## 4. Citation
 
-If you use this code or the SGN framework in academic work, please cite the
-associated Small-Gain Nash paper. A BibTeX entry can be added here once the
-final arXiv identifier is available.
+If you use this code or the SGN framework in academic work, please cite the associated paper:
+
+```bibtex
+@article{vedansh2025sgn,
+  title={Small-Gain Nash: Certified Contraction to Nash Equilibria in Differentiable Games},
+  author={Sharma, Vedansh},
+  journal={arXiv preprint arXiv:2512.06791},
+  year={2025}
+}
+```
